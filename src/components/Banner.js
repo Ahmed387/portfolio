@@ -64,7 +64,7 @@ export const Banner = () => {
                   }
                 >
                   <span className="tagline">Welcome to my Portfolio</span>
-                  <h1>
+                  <h1 className="text-wrap">
                     {`Hi! I'm Ahmed `}
                     <span
                       className="txt-rotate"

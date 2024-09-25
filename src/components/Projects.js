@@ -10,6 +10,8 @@ import Login from "../assets/img/Login.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import Movies from "../assets/img/Movies.png";
 import Portfolio from "../assets/img/portfolio.png";
+import gym from "../assets/img/gym.png";
+import notee from "../assets/img/notee.png";
 
 import "animate.css";
 import TrackVisibility from "react-on-screen";
@@ -23,10 +25,10 @@ export const Projects = () => {
       proUrl: "https://zekola-store.vercel.app/",
     },
     {
-      title: "Note",
+      title: "ObitoGym",
       description: "Design & Development",
-      imgUrl: Note,
-      proUrl: "https://note-ahmeds-projects-6f78cc84.vercel.app/login",
+      imgUrl: gym,
+      proUrl: "https://obito-gym.vercel.app/",
     },
     {
       title: "Movies",
@@ -39,6 +41,16 @@ export const Projects = () => {
       description: "Design & Development",
       imgUrl: Portfolio,
       proUrl: "/",
+    }, {
+      title: "Notee",
+      description: "Design & Development",
+      imgUrl: notee,
+      proUrl: "https://notee-xi.vercel.app/",
+    }, {
+      title: "Note",
+      description: "Design & Development",
+      imgUrl: Note,
+      proUrl: "https://note-ahmeds-projects-6f78cc84.vercel.app/login",
     },
   ];
   const secendProjects = [

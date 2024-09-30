@@ -87,7 +87,7 @@ export const Banner = () => {
                     frameworks, and reducing development time for new projects
                   </p>
                   <a
-                    href="https://drive.google.com/file/d/1DuetM4IGBWxm7mkxDuyGH4PIP8hkabzZ/view?usp=sharing"
+                    href="https://drive.google.com/file/d/1O3WlONE9sAHJAgOReAD2CJG7Bg3gKaiC/view?usp=sharing"
                     class="button"
                     target="_blank"
                   >
